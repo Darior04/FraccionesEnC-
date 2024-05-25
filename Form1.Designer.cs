@@ -64,9 +64,10 @@
             // 
             // BtnSuma
             // 
+            BtnSuma.AutoSize = true;
             BtnSuma.Location = new Point(305, 228);
             BtnSuma.Name = "BtnSuma";
-            BtnSuma.Size = new Size(75, 23);
+            BtnSuma.Size = new Size(75, 25);
             BtnSuma.TabIndex = 2;
             BtnSuma.Text = "+";
             BtnSuma.UseVisualStyleBackColor = true;
@@ -129,6 +130,7 @@
             ((System.ComponentModel.ISupportInitialize)titulo).EndInit();
             ((System.ComponentModel.ISupportInitialize)ajoloteInicio).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

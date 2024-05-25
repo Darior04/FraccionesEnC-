@@ -19,3 +19,4 @@ C:\Users\Dario\Desktop\fracciones\obj\Debug\net8.0-windows\fracciones.Suma.resou
 C:\Users\Dario\Desktop\fracciones\obj\Debug\net8.0-windows\fracciones.division.resources
 C:\Users\Dario\Desktop\fracciones\obj\Debug\net8.0-windows\fracciones.multiplicacion.resources
 C:\Users\Dario\Desktop\fracciones\obj\Debug\net8.0-windows\fracciones.Resta.resources
+C:\Users\Dario\Desktop\fracciones\obj\Debug\net8.0-windows\fracciones.nivel1Suma.resources

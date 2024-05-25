@@ -48,7 +48,7 @@
             // 
             Nivel1.Location = new Point(321, 117);
             Nivel1.Name = "Nivel1";
-            Nivel1.Size = new Size(46, 55);
+            Nivel1.Size = new Size(61, 75);
             Nivel1.TabIndex = 1;
             Nivel1.Text = "Nivel 1";
             Nivel1.UseVisualStyleBackColor = true;
@@ -57,7 +57,7 @@
             // 
             Nivel2.Location = new Point(394, 113);
             Nivel2.Name = "Nivel2";
-            Nivel2.Size = new Size(51, 69);
+            Nivel2.Size = new Size(61, 75);
             Nivel2.TabIndex = 2;
             Nivel2.Text = "Nivel 2";
             Nivel2.UseVisualStyleBackColor = true;
@@ -66,7 +66,7 @@
             // 
             Nivel3.Location = new Point(460, 125);
             Nivel3.Name = "Nivel3";
-            Nivel3.Size = new Size(75, 59);
+            Nivel3.Size = new Size(61, 75);
             Nivel3.TabIndex = 3;
             Nivel3.Text = "Nivel 3";
             Nivel3.UseVisualStyleBackColor = true;

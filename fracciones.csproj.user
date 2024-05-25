@@ -13,6 +13,9 @@
     <Compile Update="multiplicacion.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="nivel1Suma.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Resta.cs">
       <SubType>Form</SubType>
     </Compile>
